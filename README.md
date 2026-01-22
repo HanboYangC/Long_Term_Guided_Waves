@@ -1,7 +1,7 @@
 > ⚠️ **Notice**  
 > The original dataset link is no longer available.  
 > Please use the dataset provided at the link below:  
-> **[Dataset link]([[https://your-new-link-here](https://www.dropbox.com/scl/fo/cigpra8cde187g7321etz/ANJMc309bWNDdNDe9NdJCQ8?rlkey=bdv8xwkgxybo4umz4mbyc1mnr&dl=0)])**
+> **[Dataset link](https://www.dropbox.com/scl/fo/cigpra8cde187g7321etz/ANJMc309bWNDdNDe9NdJCQ8?rlkey=bdv8xwkgxybo4umz4mbyc1mnr&dl=0)**
 
 # Open Guided Waves
 
